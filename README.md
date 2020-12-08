@@ -8,5 +8,5 @@ git clone https://github.com/ZackYang-ops/ProjectBase_FlappyBird.git, open a uni
 Built version of the game can be found under Bin directory.
 
 ## Status & Prerequisites
-Unity version: 2019.4.1f1
+Unity version: 2019.4.1f1  
 Plugins: LeanTween 
